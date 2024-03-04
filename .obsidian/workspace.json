@@ -1,0 +1,280 @@
+{
+  "main": {
+    "id": "9e5fff10b68c2b88",
+    "type": "split",
+    "children": [
+      {
+        "id": "621ea1c1c2336182",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c76f0c43a416359",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/Problems that I couldn't Solve.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc8644f4802de0ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/New Info about javaScript.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed6a6719ec321753",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/Problems that I couldn't Solve.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f581b2f8418fcd01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/Problems that I couldn't Solve.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c7df09d8c4e7ca21",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d25e315417ec3c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4919d89c7b57448d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "1baa118522eee6ef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "277b070d95c2cdab",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 264.5026054382324
+  },
+  "right": {
+    "id": "98785c09724937eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "5950d627bc6dc82e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ff8a968486ca947",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "JavaScript/Problems that I couldn't Solve.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2d0d064aa3a13718",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6a6db972285450a7",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "JavaScript/Problems that I couldn't Solve.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.3196604428957517,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "4bad2e238960ca82",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "JavaScript/Problems that I couldn't Solve.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b36b7ba83e4cd4b8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "JavaScript/Problems that I couldn't Solve.md"
+              }
+            }
+          },
+          {
+            "id": "ffff314e2b0732e0",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "ba95fe96a2ed2f8c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-spaced-repetition:Review flashcards": false
+    }
+  },
+  "active": "4919d89c7b57448d",
+  "lastOpenFiles": [
+    "Html & Css/Animations.pdf",
+    "Html & Css/Writing Clean, Maintainable CSS.pdf",
+    "Html & Css/TYPOGRAPHY.pdf",
+    "Html & Css/LAYOUT.pdf",
+    "Html & Css/Imgs.pdf",
+    "Html & Css/HTML BASICS.pdf",
+    "Html & Css/Forms.pdf",
+    "Html & Css/CSS BASICS.pdf",
+    "Html & Css",
+    "JavaScript/New Info about javaScript.md",
+    "ImageBank/Pasted image 20240301172224.png",
+    "JavaScript/Tips for mature code.md",
+    "JavaScript/Problems that I couldn't Solve.md",
+    "ImageBank/Pasted image 20240220191829.png",
+    "ImageBank",
+    "ImageBank/Pasted image 20240220193552.png",
+    "ImageBank/Pasted image 20240220193034.png",
+    "ImageBank/Pasted image 20240220192329.png",
+    "Git VCS/Untitled.md",
+    "Git VCS/git.pdf",
+    "Image bank/lake-lugano-8363426_640.webp",
+    "Astrology/github pdf annotatin.md",
+    "Astrology/Time dilatin.md",
+    "Astrology/Image bank/git.pdf 3.md",
+    "Astrology/Image bank/git.pdf 2.md",
+    "Astrology/Image bank/git.pdf 1.md",
+    "Astrology/Image bank/git.pdf.md",
+    "Astrology/linked links.md",
+    "Astrology/spaced.md",
+    "2024-01-23.md",
+    "Astrology/gravitity.md",
+    "Untitled.canvas",
+    "Astrology/Intersteller Trabel.md",
+    "Astrology/Untitled 1.md",
+    "Astrology/Welcome.md",
+    "Untitled 1.md"
+  ]
+}
