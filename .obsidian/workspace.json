@@ -35,11 +35,9 @@
             "id": "ed6a6719ec321753",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "JavaScript/Problems that I couldn't Solve.md",
-                "mode": "source",
-                "source": false
+                "file": "Git VCS/git.pdf"
               }
             }
           },
@@ -122,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/Problems that I couldn't Solve.md",
+                "file": "Git VCS/git.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +143,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JavaScript/Problems that I couldn't Solve.md",
+                "file": "Git VCS/git.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -180,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/Problems that I couldn't Solve.md",
+                "file": "Git VCS/git.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/Problems that I couldn't Solve.md"
+                "file": "Git VCS/git.pdf"
               }
             }
           },
@@ -226,7 +224,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -235,31 +232,31 @@
       "command-palette:Open command palette": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4919d89c7b57448d",
+  "active": "ed6a6719ec321753",
   "lastOpenFiles": [
+    "React/1- Getting Started with React.pdf",
+    "React/4- Managing Component State.pdf",
+    "React/5- Building Forms.pdf",
+    "React/3- Styling Components.pdf",
+    "React/2- Building Components.pdf",
+    "JavaScript/Problems that I couldn't Solve.md",
+    "React",
     "Html & Css/Animations.pdf",
     "Html & Css/Writing Clean, Maintainable CSS.pdf",
     "Html & Css/TYPOGRAPHY.pdf",
     "Html & Css/LAYOUT.pdf",
-    "Html & Css/Imgs.pdf",
-    "Html & Css/HTML BASICS.pdf",
-    "Html & Css/Forms.pdf",
-    "Html & Css/CSS BASICS.pdf",
-    "Html & Css",
     "JavaScript/New Info about javaScript.md",
     "ImageBank/Pasted image 20240301172224.png",
     "JavaScript/Tips for mature code.md",
-    "JavaScript/Problems that I couldn't Solve.md",
     "ImageBank/Pasted image 20240220191829.png",
-    "ImageBank",
     "ImageBank/Pasted image 20240220193552.png",
     "ImageBank/Pasted image 20240220193034.png",
     "ImageBank/Pasted image 20240220192329.png",
     "Git VCS/Untitled.md",
-    "Git VCS/git.pdf",
     "Image bank/lake-lugano-8363426_640.webp",
     "Astrology/github pdf annotatin.md",
     "Astrology/Time dilatin.md",
