@@ -42,19 +42,65 @@
             }
           },
           {
+            "id": "cdc8eb953794d0f8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
+          },
+          {
+            "id": "ab0ef608acf9e10e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sql.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7efd717f9a09cf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OOP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f581b2f8418fcd01",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/Problems that I couldn't Solve.md",
+                "file": "JavaScript/JavaScript interview questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a0cfbe27bc4236c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/prepare for the an interview.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -120,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git VCS/git.pdf",
+                "file": "JavaScript/prepare for the an interview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Git VCS/git.pdf",
+                "file": "JavaScript/prepare for the an interview.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -178,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git VCS/git.pdf",
+                "file": "JavaScript/prepare for the an interview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git VCS/git.pdf"
+                "file": "JavaScript/prepare for the an interview.md"
               }
             }
           },
@@ -236,22 +282,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ed6a6719ec321753",
+  "active": "1a0cfbe27bc4236c",
   "lastOpenFiles": [
-    "React/1- Getting Started with React.pdf",
-    "React/4- Managing Component State.pdf",
+    "JavaScript/JavaScript interview questions.md",
+    "JavaScript/prepare for the an interview.md",
+    "OOP.md",
+    "Untitled",
+    "Sql.md",
+    "JavaScript/Problems that I couldn't Solve.md",
+    "Git VCS/git.pdf",
+    "Iq test/Resourses.md",
+    "Iq test",
+    "React/6- Connecting to the Backend.pdf",
     "React/5- Building Forms.pdf",
+    "React/4- Managing Component State.pdf",
     "React/3- Styling Components.pdf",
     "React/2- Building Components.pdf",
-    "JavaScript/Problems that I couldn't Solve.md",
-    "React",
-    "Html & Css/Animations.pdf",
-    "Html & Css/Writing Clean, Maintainable CSS.pdf",
-    "Html & Css/TYPOGRAPHY.pdf",
-    "Html & Css/LAYOUT.pdf",
+    "React/1- Getting Started with React.pdf",
+    "React/Notes.md",
     "JavaScript/New Info about javaScript.md",
-    "ImageBank/Pasted image 20240301172224.png",
     "JavaScript/Tips for mature code.md",
+    "Html & Css/Forms.pdf",
+    "ImageBank/Pasted image 20240301172224.png",
     "ImageBank/Pasted image 20240220191829.png",
     "ImageBank/Pasted image 20240220193552.png",
     "ImageBank/Pasted image 20240220193034.png",

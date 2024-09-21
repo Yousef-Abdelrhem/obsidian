@@ -212,7 +212,7 @@ const items = array
   
 console.log(items);
 ```
-## ==Reducing Array || Sum of the array in elegant way== 
+## ==Reducing Array || S == 
 ```js 
 const array = [1 , 2, -3 , 3];
 const sum = array.reduce((accumulator , currentValue) => accumulator + currentValue);
