@@ -8,99 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6c76f0c43a416359",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript/Problems that I couldn't Solve.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc8644f4802de0ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript/New Info about javaScript.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed6a6719ec321753",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Git VCS/git.pdf"
-              }
-            }
-          },
-          {
-            "id": "cdc8eb953794d0f8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
-          },
-          {
-            "id": "ab0ef608acf9e10e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sql.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c7efd717f9a09cf3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OOP.md",
+                "file": "OOP/OOP.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f581b2f8418fcd01",
+            "id": "870830e54e8ab440",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "JavaScript/JavaScript interview questions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a0cfbe27bc4236c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript/prepare for the an interview.md",
-                "mode": "source",
-                "source": false
+                "file": "OOP/17- Interfaces Quiz.pdf"
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/prepare for the an interview.md",
+                "file": "OOP/17- Interfaces Quiz.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +119,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JavaScript/prepare for the an interview.md",
+                "file": "OOP/17- Interfaces Quiz.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -224,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/prepare for the an interview.md",
+                "file": "OOP/17- Interfaces Quiz.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/prepare for the an interview.md"
+                "file": "OOP/17- Interfaces Quiz.pdf"
               }
             }
           },
@@ -282,27 +212,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1a0cfbe27bc4236c",
+  "active": "870830e54e8ab440",
   "lastOpenFiles": [
-    "JavaScript/JavaScript interview questions.md",
-    "JavaScript/prepare for the an interview.md",
-    "OOP.md",
-    "Untitled",
-    "Sql.md",
+    "OOP/14- Inheritance Quiz.pdf",
+    "OOP/16- Classes Quiz.pdf",
+    "OOP/java functions.md",
+    "OOP/OOP.md",
+    "C++/3- Strings (2).pdf",
+    "C++/3- Fundamental Data Types.pdf",
+    "C++/2- Pointers.pdf",
+    "C++/1- Arrays.pdf",
+    "C++/6- Functions.pdf",
+    "C++/5- Streams.pdf",
+    "C++/4- Structures and Enumerations.pdf",
+    "C++",
     "JavaScript/Problems that I couldn't Solve.md",
-    "Git VCS/git.pdf",
-    "Iq test/Resourses.md",
-    "Iq test",
-    "React/6- Connecting to the Backend.pdf",
-    "React/5- Building Forms.pdf",
-    "React/4- Managing Component State.pdf",
-    "React/3- Styling Components.pdf",
-    "React/2- Building Components.pdf",
-    "React/1- Getting Started with React.pdf",
-    "React/Notes.md",
     "JavaScript/New Info about javaScript.md",
+    "Git VCS/git.pdf",
+    "Sql.md",
+    "JavaScript/JavaScript interview questions.md",
+    "React/Notes.md",
+    "JavaScript/prepare for the an interview.md",
+    "Iq test/Resourses.md",
     "JavaScript/Tips for mature code.md",
-    "Html & Css/Forms.pdf",
     "ImageBank/Pasted image 20240301172224.png",
     "ImageBank/Pasted image 20240220191829.png",
     "ImageBank/Pasted image 20240220193552.png",
