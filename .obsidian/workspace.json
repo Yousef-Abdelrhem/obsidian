@@ -8,29 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c7efd717f9a09cf3",
+            "id": "da8f23e240495a10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OOP/OOP.md",
+                "file": "English words.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "870830e54e8ab440",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "OOP/17- Interfaces Quiz.pdf"
-              }
+              },
+              "icon": "lucide-file",
+              "title": "English words"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -50,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byCreatedTimeReverse"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -65,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -73,14 +68,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 264.5026054382324
+    "width": 350.506404876709
   },
   "right": {
     "id": "98785c09724937eb",
@@ -96,10 +93,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OOP/17- Interfaces Quiz.pdf",
+                "file": "Problem Solving/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Notes"
             }
           },
           {
@@ -110,7 +109,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -119,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "OOP/17- Interfaces Quiz.pdf",
+                "file": "Problem Solving/Notes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -145,7 +146,9 @@
                   "scale": 1.3196604428957517,
                   "close": true
                 }
-              }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Notes"
             }
           },
           {
@@ -154,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OOP/17- Interfaces Quiz.pdf",
+                "file": "Problem Solving/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +165,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Notes"
             }
           },
           {
@@ -171,8 +176,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OOP/17- Interfaces Quiz.pdf"
-              }
+                "file": "Problem Solving/Notes.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Notes"
             }
           },
           {
@@ -180,7 +187,9 @@
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -188,15 +197,88 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "a0332dc4c1d16ab6",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "1fae49d8f8127287",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "c02bc126bb39e054",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "1c11bb4533c2d20d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "dd85f499974e61c6",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "45ff6c741b9c327d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "5e271be9ed9500f6",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 13
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,50 +294,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "870830e54e8ab440",
+  "active": "5e271be9ed9500f6",
   "lastOpenFiles": [
-    "OOP/14- Inheritance Quiz.pdf",
-    "OOP/16- Classes Quiz.pdf",
-    "OOP/java functions.md",
-    "OOP/OOP.md",
-    "C++/3- Strings (2).pdf",
-    "C++/3- Fundamental Data Types.pdf",
-    "C++/2- Pointers.pdf",
-    "C++/1- Arrays.pdf",
-    "C++/6- Functions.pdf",
-    "C++/5- Streams.pdf",
-    "C++/4- Structures and Enumerations.pdf",
-    "C++",
-    "JavaScript/Problems that I couldn't Solve.md",
-    "JavaScript/New Info about javaScript.md",
-    "Git VCS/git.pdf",
-    "Sql.md",
-    "JavaScript/JavaScript interview questions.md",
-    "React/Notes.md",
-    "JavaScript/prepare for the an interview.md",
-    "Iq test/Resourses.md",
-    "JavaScript/Tips for mature code.md",
+    "Database/Day5.pptx",
+    "Database/Supertype and Subtypes.ppt",
+    "Database/Normalization V2.ppt",
+    "Database/SQL2.ppt",
+    "Database/Mapping-Day2.ppt",
+    "Database/SQL.ppt",
+    "Database/ERD-Day1 V22.ppt",
+    "Database/Day5 2.pptx",
+    "Database/Supertype and Subtypes 2.ppt",
+    "Database/Normalization V2 2.ppt",
+    "Database/SQL2 2.ppt",
     "ImageBank/Pasted image 20240301172224.png",
-    "ImageBank/Pasted image 20240220191829.png",
-    "ImageBank/Pasted image 20240220193552.png",
     "ImageBank/Pasted image 20240220193034.png",
     "ImageBank/Pasted image 20240220192329.png",
+    "XML.md",
+    "Sql.md",
+    "English words.md",
+    "Garbage.md",
+    "report.md",
+    "Problem Solving/Pasted image 20241005125936.png",
+    "Problem Solving/Pasted image 20241006153314.png",
+    "Problem Solving/Pasted image 20241027100553.png",
+    "Problem Solving/Pasted image 20241005125911.png",
+    "Problem Solving/Problem Solving Approach.md",
+    "Problem Solving/Notes.md",
+    "JavaScript/Problems that I couldn't Solve.md",
+    "JavaScript/Tips for mature code.md",
+    "OOP/OOP.md",
+    "OOP/NOTES.md",
+    "JavaScript/Problem solving approach.md",
+    "Problem Solving/Pasted image 20241005125147.png",
+    "JavaScript/New Info about javaScript.md",
+    "JavaScript/JavaScript interview questions.md",
+    "JavaScript/prepare for the an interview.md",
+    "OOP/java functions.md",
+    "React/Notes.md",
+    "Iq test/Resourses.md",
+    "ImageBank/Pasted image 20240220191829.png",
+    "ImageBank/Pasted image 20240220193552.png",
     "Git VCS/Untitled.md",
-    "Image bank/lake-lugano-8363426_640.webp",
     "Astrology/github pdf annotatin.md",
     "Astrology/Time dilatin.md",
     "Astrology/Image bank/git.pdf 3.md",
     "Astrology/Image bank/git.pdf 2.md",
     "Astrology/Image bank/git.pdf 1.md",
     "Astrology/Image bank/git.pdf.md",
-    "Astrology/linked links.md",
-    "Astrology/spaced.md",
-    "2024-01-23.md",
-    "Astrology/gravitity.md",
-    "Untitled.canvas",
-    "Astrology/Intersteller Trabel.md",
-    "Astrology/Untitled 1.md",
-    "Astrology/Welcome.md",
-    "Untitled 1.md"
+    "Untitled.canvas"
   ]
 }

@@ -19,7 +19,6 @@ function sum(limit){
     for(let i = 0; i <= limit ;i++){
 
         if( i % 3 === 0 || i % 5 === 0)
-
             sum += i;
     }
 
@@ -41,9 +40,7 @@ function showPrime(limit){
   let isPrime = true;
 
   for(let factor = 2; factor <  i; factor++){
-
       if(i % factor === 0) isPrime = false;
-
   }
 
   if(isPrime) console.log(i);

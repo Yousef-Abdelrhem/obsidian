@@ -1,0 +1,5 @@
+1. WHAT IS INLINE FUNCITON?
+2.
+
+
+1- 
