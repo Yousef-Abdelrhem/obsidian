@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "0f29df09d0bb27c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "6fff9fe154980fbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1acf0aea263b983",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "events.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "events"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "539e8e83f19fc278",
+    "type": "split",
+    "children": [
+      {
+        "id": "1eb9e9b581f759fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e4d19f4c78e8d48",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "580d1d5afeeeb993",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e9d3451ff8cb7ca6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "41051b689817a743",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfc2ea859bb23a3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8dc6b553559d0dc5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "events.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for events"
+            }
+          },
+          {
+            "id": "b6d205a21fcdee25",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "events.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from events"
+            }
+          },
+          {
+            "id": "b706189189a22c85",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8732280b8be26f17",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "events.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of events"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a1acf0aea263b983",
+  "lastOpenFiles": [
+    "events.md"
+  ]
+}
