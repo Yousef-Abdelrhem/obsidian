@@ -6,10 +6,14 @@ and when to use each one of them.
 
 2. event loop
 3. stopPropgation
+4. micro and macro
+5. difference between src and href html
 
-textContent(); -> to get the content
-what s the dom?
-structured 
+
+-----------------------------------
+
+
+
 
 
 
