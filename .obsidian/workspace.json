@@ -602,10 +602,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "751b36984dca686f",
+  "active": "4919d89c7b57448d",
   "lastOpenFiles": [
-    "Tasks.md",
+    "Untitled",
     "NodeJs/mostafa hassan node js.md",
+    "NodeJs/Untitled.md",
+    "Tasks.md",
     "TypeScript/TypeScript Course Summary.pdf",
     "Angular/Commands.md",
     "Problem Solving/Pasted image 20241006153314.png",
@@ -648,8 +650,6 @@
     "kanban.md",
     "report.md",
     "Problem Solving/Notes.md",
-    "JavaScript/Problems that I couldn't Solve.md",
-    "JavaScript/Tips for mature code.md",
     "Untitled.canvas"
   ]
 }
