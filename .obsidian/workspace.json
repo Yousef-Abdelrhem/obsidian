@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NodeJs/mostafa hassan node js.md",
+                "file": "Tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mostafa hassan node js"
+              "title": "Tasks"
             }
           }
         ],
@@ -602,11 +602,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4919d89c7b57448d",
+  "active": "751b36984dca686f",
   "lastOpenFiles": [
-    "Untitled",
     "NodeJs/mostafa hassan node js.md",
     "NodeJs/Untitled.md",
+    "Untitled",
     "Tasks.md",
     "TypeScript/TypeScript Course Summary.pdf",
     "Angular/Commands.md",
@@ -641,7 +641,6 @@
     "Git VCS/Git Commands.md",
     "TypeScript/Untitled.md",
     "TypeScript",
-    "Html & Css/LAYOUT.pdf",
     "Html & Css/interview questions.md",
     "React/ebents.md",
     "React/Untitled.md",
