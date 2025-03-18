@@ -10,39 +10,18 @@ and when to use each one of them.
 5. difference between src and href html
 
 -----------------------------------------------------------------
+Task 1 
+
+Draw any flag (min 3 colors)
+
+Task 2 
+
+Select a person from a photo and add it on a different background (add gradient filter with blending and text between person and background)
+
+3- Export Photos as jpeg
 
 
 
-
-
-
-
-
-
-
-
-
-
-23 to 
-
-
-4th presentation
-
-5th listen
-
-31 arrive hongkong 
-
-
-
-wednesday 2th of septemper 
-
-arrive at 7th with the regional sales manger
-
-changi hi 8th day to recover 
-
-9th to recover 
-
-wednesday 9th
 
 
 
