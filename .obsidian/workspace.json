@@ -51,6 +51,18 @@
             "id": "6a8f0a7062d16a68",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PostgreSql/PostgreSQL_Lec4.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "PostgreSQL_Lec4"
+            }
+          },
+          {
+            "id": "3d3c7ad7501347ac",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Courses.md",
@@ -62,33 +74,63 @@
             }
           },
           {
-            "id": "fd7284dcbb442b45",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "NodeJs/Express- Advanced Topics Recap.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Express- Advanced Topics Recap"
-            }
-          },
-          {
-            "id": "d7cde27ac19de9f1",
+            "id": "fa1d65d023c4b6e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Garbage.md",
+                "file": "Untitled 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Garbage"
+              "title": "Untitled 2"
+            }
+          },
+          {
+            "id": "6e0efe8422cfeb75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Need to know!.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Need to know!"
+            }
+          },
+          {
+            "id": "9b2d9fb9474a036f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JSS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "JSS"
+            }
+          },
+          {
+            "id": "3e050b2607699f2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Need to know!.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Need to know!"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -716,12 +758,152 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "2dee38b15c861ca4",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "02f299a231fe178d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "af5c430ae51a5557",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "56abc65d399df0bb",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "c59f1bd233e42987",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "2b23f7cd934de5ba",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "15b2011b74b8da37",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "45c1dc3cea4312bd",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "e76f6d56bee84547",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "55584812691771b0",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "d7da1e53f7646089",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "5a1f45fa0754b654",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "f7507bc1c39a0432",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "0d2652043707b03e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 51
+        "currentTab": 65
       }
     ],
     "direction": "horizontal",
@@ -742,29 +924,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6a8f0a7062d16a68",
+  "active": "3e050b2607699f2e",
   "lastOpenFiles": [
-    "Wordpress/course iti.md",
-    "Untitled.md",
-    "Wordpress",
-    "Courses.md",
-    "English words.md",
-    "Garbage.md",
-    "Tasks.md",
-    "NodeJs/Authentication and Authorization Recap.pdf",
-    "AdvancedJs/Notes.md",
+    "Nuxt.md",
+    "JSS.md",
+    "Need to know!.md",
     "Angular/Commands.md",
-    "NodeJs/Mongoose Validation Recap.pdf",
-    "NodeJs/CRUD Operations with Mongoose and MongoDB Recap.pdf",
-    "NodeJs/Building RESTful APIs with Express Recap.pdf",
+    "Garbage.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Courses.md",
+    "PostgreSql/Draft.md",
+    "PostgreSql/PostgreSQL_Lec4.pdf",
+    "PostgreSql/PostgreSQL_Lec3 1.pdf",
+    "PostgreSql/lab3.pdf",
+    "PostgreSql/PostgreSQL_Lec1.pdf",
+    "PostgreSql/Report.md",
+    "Tasks.md",
+    "presentaion.md",
+    "Pwa/Progressive Web App.pptx",
+    "PostgreSql/PostgreSQL_Lec2.pdf",
+    "Pwa",
+    "PostgreSql/PostgreSQL_Lec3.pdf",
+    "PostgreSql",
+    "Wordpress/course iti.md",
+    "Wordpress",
+    "English words.md",
+    "AdvancedJs/Notes.md",
     "NodeJs/mostafa hassan node js.md",
-    "NodeJs/Node Core Recap.pdf",
-    "NodeJs/Express- Advanced Topics Recap.pdf",
     "NodeJs/Notes.md",
-    "Html & Css/Imgs.pdf",
-    "TypeScript/TypeScript Course Summary.pdf",
     "Problem Solving/Pasted image 20241006153314.png",
-    "Angular",
     "Problem Solving/Pasted image 20241005125936.png",
     "Problem Solving/Pasted image 20241005125911.png",
     "Problem Solving/Problem Solving Approach.md",
@@ -781,15 +970,8 @@
     "XML.md",
     "Sql.md",
     "TypeScript/TypeScript Day 1.md",
-    "TypeScript/TypeScript Day 2.md",
-    "Git VCS/Git Commands.md",
-    "TypeScript/Untitled.md",
-    "Html & Css/interview questions.md",
-    "React/ebents.md",
-    "React/Untitled.md",
     "DALL·E 2024-12-07 18.18.35 - A visually clear Kanban board designed for managing daily technical tasks in web development. The board has three columns labeled 'To Do,' 'In Progres.webp",
     "Pasted image 20241207181211.png",
-    "kanban.md",
     "Untitled.canvas"
   ]
 }
