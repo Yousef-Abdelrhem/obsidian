@@ -107,30 +107,56 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JSS.md",
+                "file": "Nuxt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JSS"
+              "title": "Nuxt"
+            }
+          },
+          {
+            "id": "546b38be30dbe4f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React ahemd.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "React ahemd"
             }
           },
           {
             "id": "3e050b2607699f2e",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "NodeJs/CRUD Operations with Mongoose and MongoDB Recap.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "CRUD Operations with Mongoose and MongoDB Recap"
+            }
+          },
+          {
+            "id": "c7b75bac8a08da01",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Need to know!.md",
+                "file": "Nest/Day 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Need to know!"
+              "title": "Day 2"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -898,12 +924,142 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "e0dd6cade51589c6",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "467509d7d20083ea",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "51ee752ac5985566",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "60134d5f1198af7e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "456106694d80fd7f",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "2f0c8a952ee6613d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "331ffc72bd3c2ed8",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "0a19596bfdd5ae80",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "0059261705c72f6e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "96169dd8c67bbec0",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "60f78199f4b2d7bb",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "0860e8b582f61f73",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "eceeb1e6f39cb714",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 65
+        "currentTab": 78
       }
     ],
     "direction": "horizontal",
@@ -924,35 +1080,39 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3e050b2607699f2e",
+  "active": "c7b75bac8a08da01",
   "lastOpenFiles": [
+    "TypeScript/TypeScript Course Summary.pdf",
+    "Nest/Day 2.md",
+    "Nest/Day 01.pptx",
+    "Nest",
     "Nuxt.md",
-    "JSS.md",
+    "React ahemd.md",
     "Need to know!.md",
-    "Angular/Commands.md",
+    "NodeJs/CRUD Operations with Mongoose and MongoDB Recap.pdf",
     "Garbage.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
     "Courses.md",
+    "NodeJs/Untitled.md",
+    "NodeJs/1- i am applying to multinational companies in Egypt 2. cv i apply it to pdf and i will upload it on LinkedIn also 3- you can suggest but the main focus on the ats and links.md",
+    "NodeJs/Authentication and Authorization Recap.pdf",
+    "NodeJs/Building RESTful APIs with Express Recap.pdf",
+    "NodeJs/Express- Advanced Topics Recap.pdf",
+    "NodeJs/Mongoose Validation Recap.pdf",
+    "NodeJs/Notes.md",
+    "NodeJs/mostafa hassan node js.md",
+    "NodeJs/Node Core Recap.pdf",
+    "English words.md",
+    "Untitled 2.md",
+    "Tasks.md",
+    "JSS.md",
+    "Angular/Commands.md",
+    "Untitled 1.md",
     "PostgreSql/Draft.md",
     "PostgreSql/PostgreSQL_Lec4.pdf",
-    "PostgreSql/PostgreSQL_Lec3 1.pdf",
-    "PostgreSql/lab3.pdf",
-    "PostgreSql/PostgreSQL_Lec1.pdf",
     "PostgreSql/Report.md",
-    "Tasks.md",
     "presentaion.md",
-    "Pwa/Progressive Web App.pptx",
-    "PostgreSql/PostgreSQL_Lec2.pdf",
-    "Pwa",
-    "PostgreSql/PostgreSQL_Lec3.pdf",
-    "PostgreSql",
     "Wordpress/course iti.md",
-    "Wordpress",
-    "English words.md",
     "AdvancedJs/Notes.md",
-    "NodeJs/mostafa hassan node js.md",
-    "NodeJs/Notes.md",
     "Problem Solving/Pasted image 20241006153314.png",
     "Problem Solving/Pasted image 20241005125936.png",
     "Problem Solving/Pasted image 20241005125911.png",
@@ -960,16 +1120,11 @@
     "React/Notes.md",
     "React/events.md",
     "Git VCS/Untitled.md",
-    "Git VCS/wsl.md",
     "ImageBank/Pasted image 20240301172224.png",
     "ImageBank/Pasted image 20240220193552.png",
     "ImageBank/Pasted image 20240220193034.png",
     "ImageBank/Pasted image 20240220192329.png",
     "ImageBank/Pasted image 20240220191829.png",
-    "JQuery.md",
-    "XML.md",
-    "Sql.md",
-    "TypeScript/TypeScript Day 1.md",
     "DALL·E 2024-12-07 18.18.35 - A visually clear Kanban board designed for managing daily technical tasks in web development. The board has three columns labeled 'To Do,' 'In Progres.webp",
     "Pasted image 20241207181211.png",
     "Untitled.canvas"
