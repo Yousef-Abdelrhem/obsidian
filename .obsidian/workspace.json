@@ -4,159 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8cff016297fbd43f",
+        "id": "2ea91c5f6d6a2cd2",
         "type": "tabs",
         "children": [
           {
-            "id": "582f0dac43099177",
+            "id": "22fc4c26d16f9976",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Git VCS/git.pdf"
+                "file": "TypeScript/TypeScript Course Summary.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "git"
-            }
-          },
-          {
-            "id": "04174724f3204933",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Garbage.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Garbage"
-            }
-          },
-          {
-            "id": "751b36984dca686f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English words.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "English words"
-            }
-          },
-          {
-            "id": "6a8f0a7062d16a68",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PostgreSql/PostgreSQL_Lec4.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "PostgreSQL_Lec4"
-            }
-          },
-          {
-            "id": "3d3c7ad7501347ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Courses.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Courses"
-            }
-          },
-          {
-            "id": "fa1d65d023c4b6e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 2"
-            }
-          },
-          {
-            "id": "6e0efe8422cfeb75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Need to know!.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Need to know!"
-            }
-          },
-          {
-            "id": "9b2d9fb9474a036f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nuxt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Nuxt"
-            }
-          },
-          {
-            "id": "546b38be30dbe4f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React ahemd.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "React ahemd"
-            }
-          },
-          {
-            "id": "3e050b2607699f2e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "NodeJs/CRUD Operations with Mongoose and MongoDB Recap.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "CRUD Operations with Mongoose and MongoDB Recap"
-            }
-          },
-          {
-            "id": "c7b75bac8a08da01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nest/Day 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Day 2"
+              "title": "TypeScript Course Summary"
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -1054,12 +917,52 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "cd1308ab37001a7b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "ddaadac97b9ff4c2",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "1a271bd49b634083",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "dd9828a36480515e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 78
+        "currentTab": 82
       }
     ],
     "direction": "horizontal",
@@ -1080,46 +983,47 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c7b75bac8a08da01",
+  "active": "4919d89c7b57448d",
   "lastOpenFiles": [
-    "TypeScript/TypeScript Course Summary.pdf",
-    "Nest/Day 2.md",
-    "Nest/Day 01.pptx",
-    "Nest",
+    "Next js/9-_Optimizations.pdf",
+    "Next js/2- Course Summary.pdf",
+    "Next js/1-_Getting_Started_with_Next.js.pdf",
+    "Next js/2-_Styling.pdf",
+    "Next js/3-_Routing_and_Navigation.pdf",
+    "Next js/4-_Building_APIs.pdf",
+    "Next js/5-_Database_Integration_with_Prisma.pdf",
+    "Next js/6-_Uploading_Files.pdf",
+    "Next js/7-_Authentication_with_Next_Auth.pdf",
+    "Next js/8-_Sending_Emails.pdf",
+    "Next js",
+    "Admin Dashboard Vue.md",
+    "Garbage.md",
+    "English words.md",
+    "Courses.md",
+    "Need to know!.md",
     "Nuxt.md",
     "React ahemd.md",
-    "Need to know!.md",
-    "NodeJs/CRUD Operations with Mongoose and MongoDB Recap.pdf",
-    "Garbage.md",
-    "Courses.md",
+    "Html & Css/interview questions.md",
+    "Pwa/Untitled.md",
+    "Pwa/Untitled 1.md",
+    "Pwa/Untitled 2.md",
+    "Nest/day 1.md",
+    "Nest/Day 3.md",
+    "Nest/Day 2.md",
     "NodeJs/Untitled.md",
     "NodeJs/1- i am applying to multinational companies in Egypt 2. cv i apply it to pdf and i will upload it on LinkedIn also 3- you can suggest but the main focus on the ats and links.md",
-    "NodeJs/Authentication and Authorization Recap.pdf",
-    "NodeJs/Building RESTful APIs with Express Recap.pdf",
-    "NodeJs/Express- Advanced Topics Recap.pdf",
-    "NodeJs/Mongoose Validation Recap.pdf",
     "NodeJs/Notes.md",
     "NodeJs/mostafa hassan node js.md",
-    "NodeJs/Node Core Recap.pdf",
-    "English words.md",
     "Untitled 2.md",
     "Tasks.md",
     "JSS.md",
     "Angular/Commands.md",
     "Untitled 1.md",
     "PostgreSql/Draft.md",
-    "PostgreSql/PostgreSQL_Lec4.pdf",
     "PostgreSql/Report.md",
-    "presentaion.md",
-    "Wordpress/course iti.md",
-    "AdvancedJs/Notes.md",
     "Problem Solving/Pasted image 20241006153314.png",
     "Problem Solving/Pasted image 20241005125936.png",
     "Problem Solving/Pasted image 20241005125911.png",
-    "Problem Solving/Problem Solving Approach.md",
-    "React/Notes.md",
-    "React/events.md",
-    "Git VCS/Untitled.md",
     "ImageBank/Pasted image 20240301172224.png",
     "ImageBank/Pasted image 20240220193552.png",
     "ImageBank/Pasted image 20240220193034.png",
