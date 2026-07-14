@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"root","type":"text","text":"7. Relations:\n@OneToOne & @ManyToMany","x":0,"y":0,"width":260,"height":80},
+		{"id":"c1","type":"file","file":"TypeORM/JoinColumn Ownership.md","x":-350,"y":220,"width":240,"height":100},
+		{"id":"c2","type":"file","file":"TypeORM/Explicit Junction Entities.md","x":150,"y":220,"width":240,"height":300}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"root","fromSide":"bottom","toNode":"c1","toSide":"top"},
+		{"id":"e2","fromNode":"root","fromSide":"bottom","toNode":"c2","toSide":"top"}
+	]
+}
