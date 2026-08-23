@@ -20,8 +20,9 @@ No setup per session — it's a standing skill, always available.
 
 1. Claude explains the concept.
 2. **You explain it back, in your own words, or answer a check question.** This is not optional and not skippable — it's the single biggest lever for actually remembering this later. A note Claude writes alone is filing, not learning.
-3. Claude writes atomic notes + a Canvas mind map from *your* explanation, links everything, updates the curriculum index.
-4. When you say you're done, the Linear issue gets marked Done and spaced-repetition tracking starts on the new notes.
+3. Claude writes a
+4. tomic notes + a Canvas mind map from *your* explanation, links everything, updates the curriculum index.
+5. When you say you're done, the Linear issue gets marked Done and spaced-repetition tracking starts on the new notes.
 
 > [!warning] What happens if you skip step 2
 > See [[TypeORM/7 - Relations OneToOne and ManyToMany]] — that's a real note from this vault. The recall question got a "continue" instead of an answer, so it's sitting there with `[!PLACEHOLDER]` blocks instead of real content. It won't get quizzed meaningfully and won't stick, because there's nothing real in it yet. **Open it, actually answer the question this time, and watch the placeholder get replaced** — that's the fastest way to feel the difference.

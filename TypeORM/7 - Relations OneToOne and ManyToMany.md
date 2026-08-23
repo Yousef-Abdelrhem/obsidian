@@ -1,17 +1,20 @@
 ---
 tags: [typeorm, typeorm-mastery]
 linear: TYP-11
-status: in-progress
+status: done
 review_box: 1
-review_due: 2026-07-14
-last_reviewed: 2026-07-13
+review_due: 2026-07-22
+last_reviewed: 2026-07-21
 ---
 # 7. Relations: @OneToOne & @ManyToMany
 
 [Linear issue](https://linear.app/typeorm/issue/TYP-11/7-relations-onetoone-and-manytomany)
 
 ## In my own words
-> [!PLACEHOLDER] Not filled in yet — this section must come from Yousef's own explanation, elicited before writing, never from Claude's paraphrase. The skill asked the recall question in chat and got "continue" instead of an answer, so this is scaffold-only. Come back and dictate the real explanation, then replace this block.
+
+**@OneToOne:** Profile holds the foreign key to User because Profile "belongs to" User. The `@JoinColumn()` decorator marks the owning side — the side where the FK physically lives. TypeORM uses this to load the relation in both directions, but the FK is what enforces database consistency.
+
+**@ManyToMany:** Without a junction table, you'd have empty columns or messy fields. A junction table stores pairs of IDs (userId, tagId) — one row per relationship. SMAW-SAAS uses explicit junction entities instead of the `@ManyToMany` decorator because explicit entities let you add timestamps, extra columns, and control indexes.
 
 ## How it connects
 - [[JoinColumn Ownership]]

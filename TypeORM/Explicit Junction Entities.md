@@ -1,15 +1,15 @@
 ---
 tags: [typeorm, typeorm-mastery]
 linear: TYP-11
-status: in-progress
+status: done
 review_box: 1
-review_due: 2026-07-14
-last_reviewed: 2026-07-13
+review_due: 2026-07-22
+last_reviewed: 2026-07-21
 ---
 # Explicit Junction Entities
 
 ## In my own words
-> [!PLACEHOLDER] Not filled in yet — needs Yousef's own explanation before this is real.
+We need a junction table in relationships that use `@ManyToMany` because without it, we'd create a lot of messy fields or empty columns that don't get used. For example, with User and Tag entities, each user has many tags and each tag belongs to many users. Without a junction table, we'd have nowhere to store those pairs. So we create a junction table that stores the `tag_id` and `user_id` together — one row per pair.
 
 ## How it connects
 - [[7 - Relations OneToOne and ManyToMany]]

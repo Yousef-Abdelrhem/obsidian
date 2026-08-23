@@ -1,0 +1,86 @@
+{
+  "nodes": [
+    {
+      "id": "root",
+      "type": "text",
+      "text": "Package Managers\nnpm vs yarn vs pnpm",
+      "x": 0,
+      "y": 0,
+      "width": 280,
+      "height": 80
+    },
+    {
+      "id": "c1",
+      "type": "file",
+      "file": "NodeJs/npm.md",
+      "x": -350,
+      "y": 150,
+      "width": 220,
+      "height": 80
+    },
+    {
+      "id": "c2",
+      "type": "file",
+      "file": "NodeJs/yarn.md",
+      "x": 0,
+      "y": 150,
+      "width": 220,
+      "height": 80
+    },
+    {
+      "id": "c3",
+      "type": "file",
+      "file": "NodeJs/pnpm.md",
+      "x": 350,
+      "y": 150,
+      "width": 220,
+      "height": 80
+    },
+    {
+      "id": "c4",
+      "type": "file",
+      "file": "NodeJs/Lockfiles and Dependencies.md",
+      "x": 0,
+      "y": 300,
+      "width": 260,
+      "height": 80
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "root",
+      "toNode": "c1"
+    },
+    {
+      "id": "e2",
+      "fromNode": "root",
+      "toNode": "c2"
+    },
+    {
+      "id": "e3",
+      "fromNode": "root",
+      "toNode": "c3"
+    },
+    {
+      "id": "e4",
+      "fromNode": "root",
+      "toNode": "c4"
+    },
+    {
+      "id": "e5",
+      "fromNode": "c1",
+      "toNode": "c4"
+    },
+    {
+      "id": "e6",
+      "fromNode": "c2",
+      "toNode": "c4"
+    },
+    {
+      "id": "e7",
+      "fromNode": "c3",
+      "toNode": "c4"
+    }
+  ]
+}

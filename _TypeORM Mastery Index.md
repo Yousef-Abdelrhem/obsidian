@@ -14,8 +14,8 @@ Folder strategy: `dedicated:TypeORM` (see [[_Topic Map]]). Regenerated from Line
 | 4 | Basic CRUD | [TYP-8](https://linear.app/typeorm/issue/TYP-8/4-basic-crud-find-findby-save-update-delete) | Done | | |
 | 5 | Loading & Filtering (N+1) | [TYP-9](https://linear.app/typeorm/issue/TYP-9/5-loading-and-filtering-findmanyoptions-n1-problem) | Done | | |
 | 6 | Relations: OneToMany & ManyToOne | [TYP-10](https://linear.app/typeorm/issue/TYP-10/6-relations-onetomany-and-manytoone) | Done | | |
-| 7 | Relations: OneToOne & ManyToMany | [TYP-11](https://linear.app/typeorm/issue/TYP-11/7-relations-onetoone-and-manytomany) | In Progress | [[7 - Relations OneToOne and ManyToMany]], [[JoinColumn Ownership]], [[Explicit Junction Entities]] | [[Canvases/7 - relations-onetoone-manytomany.canvas]] |
-| 8 | Date Columns & Base Entity Inheritance | [TYP-12](https://linear.app/typeorm/issue/TYP-12/8-date-columns-and-base-entity-inheritance) | Backlog | | |
+| 7 | Relations: OneToOne & ManyToMany | [TYP-11](https://linear.app/typeorm/issue/TYP-11/7-relations-onetoone-and-manytomany) | Done | [[7 - Relations OneToOne and ManyToMany]], [[JoinColumn Ownership]], [[Explicit Junction Entities]] | [[Canvases/7 - relations-onetoone-manytomany.canvas]] |
+| 8 | Date Columns & Base Entity Inheritance | [TYP-12](https://linear.app/typeorm/issue/TYP-12/8-date-columns-and-base-entity-inheritance) | In Progress | [[8 - Date Columns and Base Entity Inheritance]], [[Lifecycle Hooks]], [[Base Entity Pattern]], [[Save vs Update Gotcha]] | [[Canvases/8 - date-columns-base-entity.canvas]] |
 | 9 | Enums & VersionColumn (Optimistic Locking) | [TYP-13](https://linear.app/typeorm/issue/TYP-13/9-enums-in-columns-and-versioncolumn-optimistic-locking) | Backlog | | |
 | 10 | Soft Delete | [TYP-14](https://linear.app/typeorm/issue/TYP-14/10-soft-delete-deletedatecolumn-withdeleted-restore) | Backlog | | |
 | 11 | Transactions | [TYP-15](https://linear.app/typeorm/issue/TYP-15/11-transactions-queryrunner-datasourcetransaction) | Backlog | | |
