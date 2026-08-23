@@ -10,3 +10,4 @@ Curriculum → folder-placement strategy, decided once by the obsidian-study ski
 | TypeORM Mastery | dedicated:TypeORM | ORM-specific API/behavior, not generic DB theory (Database/ already covers generic SQL/ERD/normalization) |
 | Frontend Mastery | distribute | Routes into React/JavaScript/Next js/TypeScript per-lesson keywords — deepens topics the vault already models |
 | AI Mastery Curriculum | dedicated:AI | No existing folder covers LLM/agent engineering |
+| Docker (Interview Prep) | dedicated:Docker | Containerization — no existing folder covers it, same pattern as TypeORM |

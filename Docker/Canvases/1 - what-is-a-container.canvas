@@ -1,0 +1,15 @@
+{
+  "nodes": [
+    {"id":"root","type":"text","text":"1. What is a Container?","x":0,"y":0,"width":260,"height":60},
+    {"id":"c1","type":"file","file":"Docker/Kernel.md","x":-500,"y":220,"width":220,"height":80},
+    {"id":"c2","type":"file","file":"Docker/Containers vs Virtual Machines.md","x":-170,"y":220,"width":220,"height":80},
+    {"id":"c3","type":"file","file":"Docker/Namespaces and cgroups.md","x":170,"y":220,"width":220,"height":80},
+    {"id":"c4","type":"file","file":"Docker/Docker Image vs Dockerfile vs Container.md","x":500,"y":220,"width":220,"height":80}
+  ],
+  "edges": [
+    {"id":"e1","fromNode":"root","toNode":"c1"},
+    {"id":"e2","fromNode":"root","toNode":"c2"},
+    {"id":"e3","fromNode":"root","toNode":"c3"},
+    {"id":"e4","fromNode":"root","toNode":"c4"}
+  ]
+}
